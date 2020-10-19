@@ -1,0 +1,7 @@
+{
+  "name": "retry",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
